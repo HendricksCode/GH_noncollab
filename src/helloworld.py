@@ -5,4 +5,6 @@ def hello_world(city):
 def main():
     hello_world('OKC')
 
+def test():
+    print('This is another GitHub test, good luck')
 main()
