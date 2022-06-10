@@ -10,4 +10,9 @@ def test():
     
 def test2():
     print('The testing and practice continues!') 
+
+
+def test3():
+    print('Working by myself is borring but I need the practice.')
+   
 main()
