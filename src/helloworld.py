@@ -7,4 +7,7 @@ def main():
 
 def test():
     print('This is another GitHub test, good luck')
+    
+def test2():
+    print('The testing and practice continues!') 
 main()
