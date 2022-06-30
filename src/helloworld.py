@@ -14,5 +14,10 @@ def test2():
 
 def test3():
     print('Working by myself is borring but I need the practice.')
+
+def test3():
+    print('Working by myself is borring but I need the practice.')
+def test3():
+    print('Working by myself is borring but I need the practice.')
    
 main()
